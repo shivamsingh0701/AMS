@@ -1,0 +1,7 @@
+
+*.lock
+*.ide-shm
+*.ide-wal
+*.ide
+AMS/.vs/AMS/v16/.suo
+AMS/.vs/AMS/config/applicationhost.config
